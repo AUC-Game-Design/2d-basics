@@ -21,7 +21,7 @@ Once you've cloned the project, **open the project in Unity**:
 
 ### 🎮 Jump Straight into Development
 
-We have already imported **all assets** from Unity’s tutorial. This means you can **skip** the tutorial’s asset import steps and **start directly** at ["Player Character and Movement"](https://learn.unity.com/tutorial/player-character-and-movement-2?uv=2022.3).
+We have already imported **the starter assets** from Unity’s tutorial and created the project for you. This means you can get right into it once you've cloned this project and opened it in Unity, and **start directly** at ["Player Character and Movement"](https://learn.unity.com/tutorial/player-character-and-movement-2?uv=2022.3).
 
 ## 📜 Requirements and Grading
 
@@ -33,11 +33,11 @@ We have already imported **all assets** from Unity’s tutorial. This means you 
   - **A significant improvement of an existing mechanic**
   - **Improved visuals**
   - **Other creative modifications**
-- You must **push your work to the repository** to count as a submission. If you do not push your work, it **will not be considered**, and you will receive an **F**.
+- You must commit all files **push your work to the repository** to count as a submission. If you do not push your work, it **will not be considered**, and you will receive an **F**.
 
 ## ⚠️ Important Warnings
 
-- **Disk Space**: Ensure you have at least **4GB of free space** before opening the project. Unity generates temporary files and downloads necessary packages.
+- **Disk Space**: Ensure you have at least **4GB of free space** before opening the project. Unity generates temporary files and downloads necessary packages during the project's lifecycle.
 - **Preferred IDE**: 
   - If you're on **Windows**, use **Visual Studio 2022** (installed with Unity). It is already configured for Unity projects.
   - If you're on **Mac**, you will have to use **Visual Studio Code**, as Visual Studio 2022 is not available on macOS.
