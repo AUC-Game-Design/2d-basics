@@ -21,7 +21,7 @@ Once you've cloned the project, **open the project in Unity**:
 
 ### 🎮 Jump Straight into Development
 
-We have already imported **the starter assets** from Unity’s tutorial and created the project for you. This means you can get right into it once you've cloned this project and opened it in Unity, and **start directly** at ["Player Character and Movement"](https://learn.unity.com/tutorial/player-character-and-movement-2?uv=2022.3).
+We have already imported **the starter assets** from Unity’s tutorial and created the project for you. This means you can get right into it once you've cloned this project and opened it in Unity, and **start directly** at "Player Character and Movement".
 
 ## 📜 Requirements and Grading
 
